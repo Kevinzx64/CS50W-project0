@@ -1,0 +1,15 @@
+body{ /*Selector de etiquetas en CSS*/
+    background: lightgray; /*este comando poner color a la pagina*/
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*selector de ID*/
+#container{ 
+    
+
+}
+
+/*Selector de clases*/
+.articule{ 
+
+}
